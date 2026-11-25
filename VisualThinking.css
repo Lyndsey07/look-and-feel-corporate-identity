@@ -1,0 +1,16 @@
+.nav-bar {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.nav-bar .search-button{
+    opacity:100%;
+    width:32px;
+    height:32px;
+    border:2px solid transparent;
+}
+
+.menu-button {
+    border-left:24px solid transparent;
+}
